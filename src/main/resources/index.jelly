@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This plugin provides a simple DataHolderAction to keep and access the data later via the API or groovy
+</div>
